@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListLibrary()
+comment0.text=\r\n\ listLibrary\ constructor\r\n
+comment1.params=num
+comment1.target=List\ getList(int)
+comment1.text=\r\n\ returns\ one\ of\ the\ lists\ within\r\n\ @param\ num\ selects\ the\ list\ to\ look\ at\r\n\ @return\ returns\ the\ selected\ list\r\n
+comment2.params=name\ description
+comment2.target=void\ addList(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ adds\ a\ list\ to\ the\ ListLibrary\r\n\ @param\ name\ passes\ a\ name\ for\ the\ list\r\n\ @param\ description\ passes\ a\ description\ for\ the\ list\r\n
+comment3.params=num
+comment3.target=void\ removeList(int)
+comment3.text=\r\n\ removes\ a\ list\ from\ the\ listLibrary\r\n\ param\ num\ selects\ the\ list\ to\ be\ removed\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ gets\ the\ size\ of\ the\ Library\ list\r\n\ @return\ the\ size\ of\ the\ librarylist\ itself\r\n
+comment5.params=num\ newBook
+comment5.target=void\ addBookToReadingList(int,\ Book)
+comment5.text=\r\n\ adds\ a\ book\ to\ the\ reading\ list\r\n\ @param\ num\ which\ list\ to\ add\ it\ to\r\n\ @param\ newBook\ the\ book\ in\ which\ to\ add\r\n
+numComments=6

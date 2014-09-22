@@ -1,0 +1,15 @@
+THERE ARE MANY BUGS AND PROBLEMS, BEWARE JORDAN.
+
+Most methods do not really have exception handling. some do, but they're very basic.
+
+Reading files does not account for random strings. it does sort of catch ints and other data types, but it doesn't do anything
+
+When saving a file, I can't get rid of some of the commas for list that books are in. This will probably cause issues reloading text files.
+
+it cannot stop duplicates from being entered
+
+There's probably a lot more things that I can't remember at the moment. Think of it as a horrible easter egg hunt!
+
+
+
+p.s. this is also in the RLMS header 

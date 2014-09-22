@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BookLibrary()
+comment0.text=\r\n\ constructor\r\n
+comment1.params=
+comment1.target=int\ size()
+comment1.text=\r\n\ gives\ the\ number\ of\ books\r\n\ @returns\ the\ number\ of\ books\r\n
+comment2.params=num
+comment2.target=Book\ getBook(int)
+comment2.text=\r\n\ gets\ a\ book\ from\ the\ BookLibrary\r\n\ @param\ num\ the\ position\ of\ the\ book\r\n\ @return\ the\ book\ in\ that\ position\r\n
+comment3.params=aBook
+comment3.target=void\ addBook(Book)
+comment3.text=\r\n\ adds\ a\ book\ to\ the\ library\r\n\ @param\ aBook\ passes\ a\ book\ for\ the\ BookLibrary\ to\ store\r\n
+comment4.params=num
+comment4.target=void\ removeBook(int)
+comment4.text=\r\n\ removes\ a\ book\r\n\ @param\ selects\ the\ book\ to\ remove\r\n
+numComments=5
