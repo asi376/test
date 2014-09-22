@@ -12,6 +12,7 @@ public class ListLibrary
  */
     public ListLibrary()
     {
+		foo();
         libraryList = new ArrayList<List>();
     }
 /*
